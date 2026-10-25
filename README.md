@@ -1,3 +1,3 @@
 # MyTestProject
 V 1.0
-v 2.0
+V 2.0
